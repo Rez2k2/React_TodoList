@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.cont{
+    text-align: center;
+    margin: auto;
+    width:100%;
+    min-height: 100vh;
+    background-color: #11000A;
+    
+ 
+}
+.cont-inside{
+    width: 80%;
+    margin: auto;
+    background: #11000A ;
+}

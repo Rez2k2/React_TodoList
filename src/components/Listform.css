@@ -1,0 +1,28 @@
+.input-box{
+    height: 4vh;
+    width: 30%;
+}
+.add-btn{
+    margin-left: 5px;
+    height: 4vh;
+    border-radius: 3px;
+    border: none;
+    width: 2.4%;
+   
+ 
+}
+
+@media(max-width:840px){
+    .input-box{
+        width: 70%;
+        
+
+    }
+    .add-btn{
+        width:30px;
+       
+    }
+    .form-cont{
+        margin-left: 45px;
+}
+}
